@@ -8,4 +8,8 @@ function remove_whitespace($str) {
 	return implode($lexed_str);
 }
 
+function compile_single_ln($ln) {
+	
+}
+
 ?>
